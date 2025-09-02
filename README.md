@@ -24,9 +24,9 @@ Langkah-langkah deteksi outlier dengan **IQR**:
 ---
 
 ## 3. File dalam Repository
-- **`TGM_2020-2023_eng.csv`** → Dataset asli (raw).  
-- **`cleaned_data.csv`** → Dataset setelah preprocessing (outlier dihapus).  
-- **`explorasi_outlier.ipynb`** → Notebook Python/Colab untuk preprocessing + visualisasi.  
+- Dataset asli (raw).  
+- Dataset setelah preprocessing (outlier dihapus).  
+- Notebook Python/Colab untuk preprocessing + visualisasi.  
 - **`README.md`** → Laporan singkat (dokumen ini).  
 
 ---
