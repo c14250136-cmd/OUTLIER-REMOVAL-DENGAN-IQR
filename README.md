@@ -25,8 +25,8 @@ Langkah-langkah deteksi outlier dengan **IQR**:
 
 ## 3. File dalam Repository
 - Dataset asli (raw).  
-- Dataset setelah preprocessing (outlier dihapus).  
-- Notebook Python/Colab untuk preprocessing + visualisasi.  
+- Dataset setelah preprocessing (outlier dihapus) = 
+- Notebook Python/Colab untuk preprocessing + visualisasi = https://colab.research.google.com/drive/1BOa7uEN58Bkg85dvsr_4RtBvABmEv832 
 - **`README.md`** → Laporan singkat (dokumen ini).  
 
 ---
