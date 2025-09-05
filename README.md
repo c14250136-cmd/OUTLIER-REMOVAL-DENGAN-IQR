@@ -19,8 +19,7 @@ Langkah-langkah deteksi outlier dengan **IQR**:
    - Batas atas = Q3 + 1.5 × IQR  
 4. Data di luar rentang tersebut dianggap **outlier** → dihapus.  
 ![Family Size](https://github.com/c14250136-cmd/OUTLIER-REMOVAL-DENGAN-IQR/blob/main/Find-the-IQR-Step-8-Version-2.jpg)
----
-
+![Family Size](https://github.com/c14250136-cmd/OUTLIER-REMOVAL-DENGAN-IQR/blob/main/IQROutlier_22.png)
 ---
 
 ## 3. File dalam Repository
