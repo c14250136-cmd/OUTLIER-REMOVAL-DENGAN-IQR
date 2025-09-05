@@ -18,7 +18,7 @@ Langkah-langkah deteksi outlier dengan **IQR**:
    - Batas bawah = Q1 – 1.5 × IQR  
    - Batas atas = Q3 + 1.5 × IQR  
 4. Data di luar rentang tersebut dianggap **outlier** → dihapus.  
-
+![Family Size]()
 ---
 
 ---
